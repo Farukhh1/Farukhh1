@@ -41,10 +41,10 @@ A point-of-sale desktop application for retail management.
 
 ## 🧰 Skills
 
-**Languages:** Python, C#, C++, SQL
-**Backend/Web:** FastAPI, Flask, SQLAlchemy, HTMX
-**Desktop:** WinForms
-**Databases:** PostgreSQL, SQL Server, MySQL
+**Languages:** Python, C#, C++, SQL<br>
+**Backend/Web:** FastAPI, Flask, SQLAlchemy, HTMX<br>
+**Desktop:** WinForms<br>
+**Databases:** PostgreSQL, SQL Server, MySQL<br>
 **Other:** OOP, Data Structures & Algorithms, Machine Learning fundamentals (DeepLearning.AI ML Specialization)
 
 ---
