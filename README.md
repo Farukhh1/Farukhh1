@@ -35,7 +35,7 @@ A point-of-sale desktop application for retail management.
 
 `C#` `WinForms` `MySQL`
 
-**[→ View on GitHub](https://github.com/your-username/HyperStarFinal)**
+**[→ View on GitHub](https://github.com/Farukhh1/HyperStarFinal)**
 
 ---
 
